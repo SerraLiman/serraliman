@@ -1,3 +1,19 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Languages</h3>
+<h1 align="center">Hi 👋, I'm Serra</h1>
+<h3 align="center">I'm currently student in Ecole42</h3>
+
+
+| No  | Project                                     | Status |
+| :-: | :------------------------------------------ | :----: |
+| 1   | [Libft](../../../libft)               | ✅125  |
+| 2   | [Born2beroot](../../../born2beroot)                               | ✅100  |
+| 3   | [ft_printf](../../../ft_printf)                | ✅100  |  
+| 4   | [get_next_line](../../../get_next_line)     | ✅125  |  
+| 5A  | FdF                                         | ⌛     |
+| 6A  | [minitalk](../../../minitalk)              | ✅125  |
+| 7   | [push_swap]            | 🔒     | 
+| 8   | [minishell]                                 | 🔒     | 
+| 9   | [Philosphers]                               | 🔒     |  
+
+- 📫 How to reach me: **------------**
+
+<h3 align="left">Connect with me:</h3>
