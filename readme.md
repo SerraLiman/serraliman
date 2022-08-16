@@ -4,7 +4,7 @@
 
 | No  | Project                                     | Status |
 | :-: | :------------------------------------------ | :----: |
-| 1   | [Libft](../../../libft)               | ✅125  |
+| 1   | [Libft](../../../libft)               | ✅108  |
 | 2   | [Born2beroot](../../../born2beroot)                               | ✅100  |
 | 3   | [ft_printf](../../../ft_printf)                | ✅100  |  
 | 4   | [get_next_line](../../../get_next_line)     | ✅125  |  
