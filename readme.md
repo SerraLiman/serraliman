@@ -20,4 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<h3 align="left">Languages</h3>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serraliman"/>
