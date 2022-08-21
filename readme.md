@@ -12,13 +12,14 @@
 | 9   | [Philosphers]                               | 🔒     |
 
 
+
 - 🔭 I’m currently working on **C**
 
 - 🌱 I’m currently learning **HTML,CSS**
 
 - 📫 How to reach me **serra_liman@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+
 
 <h3 align="left">Languages</h3>
 
