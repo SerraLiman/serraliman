@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serra</h1>
-<h3 align="center">I'm currently student in Ecole42</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Nedime Serra Liman;I'm currently student in Ecole42)](https://git.io/typing-svg)
 
 | No  | Project                                     | Status |
 | :-: | :------------------------------------------ | :----: |
