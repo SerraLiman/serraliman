@@ -11,6 +11,10 @@
 | 8   | [minishell]                                 | 🔒     | 
 | 9   | [Philosphers]                               | 🔒     |  
 
-- 📫 How to reach me: **------------**
+- 🔭 I’m currently working on **C**
+
+- 🌱 I’m currently learning **HTML,CSS**
+
+- 📫 How to reach me **serra_liman@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
