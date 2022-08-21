@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Nedime Serra Liman;I'm currently student in Ecole42)](https://git.io/typing-svg)
 
 | No  | Project                                     | Status |
 | :-: | :------------------------------------------ | :----: |
