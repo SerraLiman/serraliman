@@ -12,16 +12,3 @@
 | 8   | [minishell]                                 | 🔒     | 
 | 9   | [Philosphers]                               | 🔒     |
 
-
-
-- 🔭 I’m currently working on **C**
-
-- 🌱 I’m currently learning **HTML,CSS**
-
-- 📫 How to reach me **serra_liman@outlook.com**
-
-
-
-<h3 align="left">Languages</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=serraliman"/>
