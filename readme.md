@@ -19,3 +19,5 @@
 - 📫 How to reach me **serra_liman@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=serraliman"/>
