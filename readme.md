@@ -9,7 +9,7 @@
 | 5A  | [minitalk](../../../minitalk)              | ⌛     |
 | 7   | [push_swap]            | 🔒     | 
 | 8   | [minishell]                                 | 🔒     | 
-| 9   | [Philosphers]                               | 🔒     |  
+| 9   | [Philosphers]                               | 🔒     |
 
 
 - 🔭 I’m currently working on **C**
